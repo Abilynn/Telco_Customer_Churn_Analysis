@@ -14,4 +14,4 @@ Services that each customer has signed up for — phone, multiple lines, interne
 Customer account information — how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 Demographic info about customers — gender, age range, and if they have partners and dependents
 
-## Dataset was gotteb from kaggle: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+### Dataset was gotten from kaggle: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
